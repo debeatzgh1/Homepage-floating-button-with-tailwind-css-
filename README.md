@@ -6,7 +6,7 @@ A simple, lightweight, and responsive HTML component that adds a floating "Home"
 
 ## 🚀 Live Demo
 
-👉 [View Live Site on GitHub Pages](https://debeatzgh1.github.io/Homepage-floating-button-with-tailwind-css-/)
+👉 [View Live Site on GitHub Pages](https://beatzde4.blogspot.com/p/advertise-online-for-free.html)
 
 ---
 
