@@ -1,29 +1,29 @@
-# 🧭 Floating Home Button with Tailwind CSS
+# 🏠 Floating Home Button with Tailwind CSS
 
-This is a simple responsive layout featuring a **floating Home button**, mobile menu support, and dark mode detection.
-
-## ✨ Features
-
-- 📍 Floating Home button (top-right corner)
-- 🌙 Auto Dark Mode support
-- 📱 Mobile menu toggle script
-- 💨 Smooth scrolling
-- ⚡ External link loading animation
-
-## 🧪 Tech Stack
-
-- HTML5
-- Tailwind CSS CDN
-- JavaScript (Vanilla)
-
-## 🖥️ Demo
-
-[Live Demo](https://your-username.github.io/Floating-Home-Button-DKonsult)
+A simple, lightweight, and responsive HTML component that adds a floating "Home" button to the top-right corner of any webpage. Built using **Tailwind CSS**, it includes dark mode detection, smooth scrolling, and a mobile menu toggle script.
 
 ---
 
-## 📁 How to Use
+## 🚀 Live Demo
 
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/Floating-Home-Button-DKonsult.git
+👉 [View Live Site on GitHub Pages](https://debeatzgh1.github.io/Homepage-floating-button-with-tailwind-css-/)
+
+---
+
+## ✨ Features
+
+- 📌 **Floating Home Button** – Always visible at the top-right of the page
+- 🌙 **Dark Mode Support** – Automatically adapts to system preference
+- 📱 **Mobile Menu Toggle Script**
+- 💨 **Smooth Internal Scrolling**
+- ⚡ **Lightweight & Fast** – No frameworks required beyond Tailwind CDN
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **Tailwind CSS** (via CDN)
+- **Vanilla JavaScript**
+- *(Optional)* Font Awesome for icons
+
