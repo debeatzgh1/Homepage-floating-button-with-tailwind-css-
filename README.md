@@ -396,10 +396,10 @@ tailwind.config = {
       <button onclick="openFrame('https://debeatzgh1.blogspot.com/')" class="hover:text-secondary">Home</button>
       <button onclick="openFrame('https://mybrandsonline.blogspot.com/')" class="hover:text-secondary">Products</button>
       <button onclick="openFrame('https://digimartgh.blogspot.com/')" class="hover:text-secondary">Side Hustle</button>
-      <button onclick="openFrame('https://msha.ke/debeatzgh')" class="hover:text-secondary">Milkshake</button>
+      <button onclick="openFrame('https://form.svhrt.com/60f4a0aeedc1993c8c7b3989')" class="hover:text-secondary">Milkshake</button>
     </nav>
-    <button onclick="openFrame('https://msha.ke/debeatzgh')" class="bg-secondary text-white px-5 py-2 rounded-xl shadow hover:scale-105 transition">
-      Open Hub
+    <button onclick="openFrame('https://form.svhrt.com/60f4a0aeedc1993c8c7b3989')" class="bg-secondary text-white px-5 py-2 rounded-xl shadow hover:scale-105 transition">
+      comment
     </button>
   </div>
 </header>
