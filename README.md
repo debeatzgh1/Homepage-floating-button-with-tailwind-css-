@@ -465,7 +465,7 @@ tailwind.config = {
 </footer>
 
 <!-- FLOATING BUTTON -->
-<button onclick="openFrame('https://gist.github.com/debeatzgh1/98cf571e21881f4a39560503988861d3')" class="fixed bottom-6 right-6 bg-accent text-white w-14 h-14 rounded-full shadow-lg floating-btn text-2xl">
+<button onclick="openFrame('https://msha.ke/debeatzgh')" class="fixed bottom-6 right-6 bg-accent text-white w-14 h-14 rounded-full shadow-lg floating-btn text-2xl">
   ☰
 </button>
 
